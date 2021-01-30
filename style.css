@@ -1,0 +1,43 @@
+body{
+    font-family: cursive;
+    background:chocolate ;
+}
+.header_div{
+    background: chocolate;
+    color: indigo;
+}
+.header_div img{
+    width: 100px;
+}
+.main_div{
+    background: chocolate;
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px;
+}
+.main_div label{
+    background: chocolate;
+    width: 310px;
+    padding: 10px;
+    margin-bottom: 10px;
+    box-shadow: 5px 5px 18px whitesmoke;
+}
+#camera,#result{
+    border: 2px solid darkviolet;
+    width: 310px;
+    height: 300px;
+    box-shadow: 5px 5px 18px deeppink;
+    border: 1px solid;
+}
+.footer_div{
+    margin-bottom: 50px;
+}
+.footer_div h4{
+    background: chocolate;
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 5px 5px 18px darkmagenta;
+}
+.footer_div img{
+    width: 70px;
+}
